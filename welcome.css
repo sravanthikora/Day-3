@@ -1,0 +1,43 @@
+.user{
+    background-color: pink;
+}
+video{
+    width: 100%;
+}
+/* div{
+    background-color: gray;
+} */
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: black;
+    font-size: 25px;
+}
+.container1{
+    background-color: rgb(198, 205, 209);
+    display: flex;
+}
+.container1 img{
+    width: 500px;
+    height: 300px;
+    margin-top: 3%;
+}
+.container1 .title{
+    padding: 10% 15%;
+}
+.container2{
+    background-color: rgb(189, 226, 245);
+    display: flex;
+}
+.container2 img{
+    width: 500px;
+    height: 300px;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.container2 .title{
+    padding: 10% 15%;
+}
+footer{
+    background-color: rgb(216, 228, 244);
+}
